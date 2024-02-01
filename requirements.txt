@@ -3,4 +3,3 @@ pyvista
 bokeh
 panel
 stpyvista
-libxrender
