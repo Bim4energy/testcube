@@ -1,5 +1,5 @@
 streamlit
-pyvista==0.43.2
+pyvista
 bokeh
 panel
 stpyvista
