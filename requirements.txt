@@ -1,5 +1,5 @@
 streamlit
 pyvista
 bokeh
-panel
+panel == 1.3.8
 stpyvista
