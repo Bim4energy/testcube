@@ -3,3 +3,4 @@ pyvista
 bokeh
 panel
 stpyvista
+vtk==9.3.0
