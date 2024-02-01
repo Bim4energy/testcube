@@ -1,5 +1,11 @@
+numpy
+matplotlib
 streamlit
-stpyvista == 0.0.15
-pyvista
+panel
 bokeh
-panel 
+param
+pyvista
+stpyvista
+geovista
+colorcet
+requests
